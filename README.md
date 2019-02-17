@@ -12,7 +12,7 @@ to install silk follow steps given here
 http://www.flowbat.com/installation.html
 
 on the step to install flow bat download this sh script
-https://github.com/rorschach217/FlowBAT/blob/master/install_flowbat_ubuntu.sh
+https://raw.githubusercontent.com/rorschach217/FlowBAT/master/install_flowbat_ubuntu.sh
 
 give it execution permission
 ```
